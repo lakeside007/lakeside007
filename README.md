@@ -1,0 +1,4 @@
+- 👋 Hi, my name is Miracle Komolafe
+- 👀 I’m interested in paid and unpaid cybersecurity internships, jobs and collaborations
+- 🌱 I’m currently advancing my skills and knowledge in Cybersecurity by taking courses from Cisco, Google, Hackthebox and sharpening my skills in SQL, Linux, etc.
+- 📫 I can be reached through email: miraclekomolafe007@gmail.com
