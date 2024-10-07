@@ -4,7 +4,7 @@
 - <b>Active Directory</b>
   - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Linux</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Encryption, Decryption & Hashing](https://github.com/lakeside007/Encryption-Decryption-and-Hashing-using-Linux-CLI/blob/main/README.md) 
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
