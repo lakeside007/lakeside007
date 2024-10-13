@@ -2,7 +2,7 @@
 <h2>👨‍💻 IT Projects</h2>
 
 - <b>Active Directory</b>
-  - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Active Directory Home Lab](https://github.com/lakeside007/Creating_admin_account_and_assigning_domain_admin_group_on_AD)
 - <b>Linux</b>
   - [Encryption, Decryption & Hashing](https://github.com/lakeside007/Encryption-Decryption-and-Hashing-using-Linux-CLI/blob/main/README.md) 
 - <b>PowerShell</b>
