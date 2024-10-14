@@ -3,6 +3,7 @@
 
 - <b>Active Directory</b>
   - [Creating admin account and assigning domain admin group on AD](https://github.com/lakeside007/Creating_admin_account_and_assigning_domain_admin_group_on_AD)
+  - [Utilizing a script on PowerShell ISE to automate the creation of 1,001 domain users]( https://github.com/lakeside007/PowerShell-automation-for-bulk-AD-users-creation/tree/main)
 - <b>Linux</b>
   - [Encryption, Decryption & Hashing](https://github.com/lakeside007/Encryption-Decryption-and-Hashing-using-Linux-CLI/blob/main/README.md) 
 - <b>PowerShell</b>
